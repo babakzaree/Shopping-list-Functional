@@ -1,0 +1,82 @@
+{
+    "apple": {
+        "category": "fruit",
+        "price": 15000,
+        "amount": 13
+    },
+    "orange": {
+        "category": "fruit",
+        "price": 13000,
+        "amount": 10
+    },
+    "blueberry": {
+        "category": "fruit",
+        "price": 120000,
+        "amount": 5
+    },
+    "bananna": {
+        "category": "fruit",
+        "price": 55000,
+        "amount": 10
+    },
+    "tea": {
+        "category": "food",
+        "price": 90000,
+        "amount": 20
+    },
+    "rice": {
+        "category": "food",
+        "price": 250000,
+        "amount": 100
+    },
+    "cake": {
+        "category": "food",
+        "price": 8000,
+        "amount": 28
+    },
+    "beef": {
+        "category": "meat",
+        "price": 140000,
+        "amount": 10
+    },
+    "chicken": {
+        "category": "meat",
+        "price": 53000,
+        "amount": 14
+    },
+    "fish": {
+        "category": "meat",
+        "price": 230000,
+        "amount": 20
+    },
+    "lamp": {
+        "category": "electric",
+        "price": 35000,
+        "amount": 20
+    },
+    "tv": {
+        "category": "electric",
+        "price": 23000000,
+        "amount": 3
+    },
+    "freezer": {
+        "category": "electric",
+        "price": 14000000,
+        "amount": 4
+    },
+    "shoes": {
+        "category": "clothes",
+        "price": 980000,
+        "amount": 32
+    },
+    "tshirt": {
+        "category": "clothes",
+        "price": 320000,
+        "amount": 24
+    },
+    "pants": {
+        "category": "clothes",
+        "price": 650000,
+        "amount": 16
+    }
+}

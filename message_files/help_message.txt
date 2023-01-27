@@ -1,0 +1,31 @@
+Store Mode:
+
+This is Online shop.
+you can add items from the products available in store. and buy it.
+This will decrease your balance.
+
+List mode:
+
+This program will add your preferred items to your shopping list.
+
+Commands:
+- help --> showing commands to user.
+
+- addmoney --> use this if your balance isn't enough.
+
+- products, prods, product --> see the products in stock.
+    if you want to see the products by the categories, use 'category' command.
+
+- category, categories --> show the products in category that user gived.
+    * NOTE * list of our categories: (fruit , meat, electric, clothes, food)
+
+- show --> showing items in shopping list.
+
+- order --> Set the order of cart ('amount', 'name' ,'default')
+            default program is set to DEFAULT
+            order command format: <order> <space> <order name>
+
+- Delete [item] --> delete preferred item from shopping list.
+
+- q, quit, ex, exit --> exit the program.
+

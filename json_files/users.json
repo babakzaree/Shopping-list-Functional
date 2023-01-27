@@ -1,0 +1,18 @@
+{
+   "babakzare": {
+      "password": "babak1234", 
+      "balance": 288000.0
+   }, 
+   "babak": {
+      "password": "babak1234", 
+      "balance": 30000
+   }, 
+   "babyyoda": {
+      "password": "sardardkharast1380", 
+      "balance": 30000
+   }, 
+   "test": {
+      "password": "test", 
+      "balance": 30000
+   }
+}
